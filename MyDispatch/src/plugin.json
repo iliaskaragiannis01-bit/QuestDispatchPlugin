@@ -1,0 +1,11 @@
+{
+  "name": "MyDispatch",
+  "author": "Me",
+  "version": "1.0.0",
+  "minVersion": "1.130",
+  "supportedVersion": "1.210",
+  "basePackage": "com.mydispatch",
+  "features": [
+    "com.mydispatch.tasks.DispatchTask"
+  ]
+}
